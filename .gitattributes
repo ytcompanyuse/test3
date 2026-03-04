@@ -3,3 +3,4 @@ models_t5.part01 filter=lfs diff=lfs merge=lfs -text
 models_t5.part02 filter=lfs diff=lfs merge=lfs -text
 add[[:space:]]03 filter=lfs diff=lfs merge=lfs -text
 models_t5.part03 filter=lfs diff=lfs merge=lfs -text
+models_t5.part04 filter=lfs diff=lfs merge=lfs -text
